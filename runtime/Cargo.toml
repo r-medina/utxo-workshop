@@ -100,6 +100,9 @@ version = "0.3.56"
 [dependencies.pin-project-internal]
 version = "0.4.27"
 
+[dependencies.ring]
+version = "0.16.20"
+
 [dev-dependencies]
 hex-literal = "0.2.1"
 
